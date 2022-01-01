@@ -3,12 +3,11 @@
 
 
 ## About me
-**Name:** Бикмуллин Марсель Маратович
-**Phone number:**	+79047192017.
-* telegram: **@marselbikmullin**
-**Marital status:**	married
-**Date of birth:**	6th April 1991
-**Email:** marsel.bikmullin@gmail.com
+* **Name:** Бикмуллин Марсель Маратович
+* **Phone number:**	+79047192017.
+* **Marital status:**	married
+* **Date of birth:**	6th April 1991
+* **Email:** marsel.bikmullin@gmail.com
 
 
 I love computers and everything related to them. Programming has always been something of a hobby.
@@ -20,18 +19,17 @@ Solving JS problems on codewars.com and leetcode.com.
 Refreshing knowledge of HTML and CSS.
 
 Married, two children.
-SEO specialist with experience. In my work I sometimes have to edit the layout, install and configure analytics counters on sites, set up goal tracking.
 
-Translated with www.DeepL.com/Translator (free version)
+SEO specialist with experience. In my work I sometimes have to edit the layout, install and configure analytics counters on sites, set up goal tracking.
 
 ## My objective
 To contribute professional skills to achieving your company's goals as an frontend developer.
 
 
 ## Skills
-HTML, CSS, Javascript, Python, Django
-Git, Github
-Visual Studio Code, WebStorm, PyCharm, 
+* HTML, CSS, Javascript, Python, Django
+* Git, Github
+* Visual Studio Code, WebStorm, PyCharm, 
 
 ## Code examples
 ```
