@@ -1,7 +1,7 @@
 #CV
-**Бикмуллин Марсель Маратович**
-email: **marsel.bikmullin@gmail.com**
-telegram: **@marselbikmullin**
+**Бикмуллин Марсель Маратович** ![avatar](https://scontent.fhrk1-1.fna.fbcdn.net/v/t1.18169-1/p320x320/22730155_733481770185223_5049459264163099635_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=7206a8&_nc_ohc=p1gdVLEAy-gAX9_4AzG&_nc_ht=scontent.fhrk1-1.fna&oh=00_AT9_HvyWlEjcY89j5tX7ea-CtuL14H3iq5f9M_Y-2yqnOA&oe=61F4B09D)
+* email: **marsel.bikmullin@gmail.com**
+* telegram: **@marselbikmullin**
 Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
 Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
 Примеры кода
