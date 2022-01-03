@@ -1,20 +1,145 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="style.css" />
-    <link rel="icon" href="images/favicon.ico" />
-    <title>CV - Бикмуллин Марсель Маратович</title>
-  </head>
-  <body>
-    <header></header>
-    <main>
-      <img src="images/avatar.jpg" />
-      <h1>Бикмуллин Марсель Маратович</h1>
-    </main>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="style.css" />
+        <link rel="icon" href="./assets/images/favicon.ico" />
+        <title>CV - Бикмуллин Марсель Маратович</title>
+    </head>
+    <body>
+        <header class="header">
+        <div class="container">
+            <nav class="nav">
+            <ul class="nav-list">
+                <li class="nav-item">
+                <a href="#contacts" class="nav-link">Contacts</a>
+                </li>
+                <li class="nav-item">
+                <a href="#summary" class="nav-link">Summary</a>
+                </li>
+                <li class="nav-item">
+                <a href="#my-objective" class="nav-link">My objective</a>
+                </li>
+                <li class="nav-item">
+                <a href="#skills" class="nav-link">Skills</a>
+                </li>
+                <li class="nav-item">
+                <a href="#code" class="nav-link">Code examples</a>
+                </li>
+                <li class="nav-item">
+                <a href="#courses" class="nav-link">Courses</a>
+                </li>
+                <li class="nav-item">
+                <a href="#education" class="nav-link">Education</a>
+                </li>
+                <li class="nav-item">
+                <a href="#language-skills" class="nav-link">Language Skills</a>
+                </li>
+            </ul>
+            </nav>
+        </div>
+        </header>
+        <main class="main">
+        <div class="container main-container">
+            <section class="section" id="Profile">
+            <h1 class="section-title">Bikmullin Marsel</h1>
+            <h3 class="section-job">Junior Frontend Developer</h3>
+            </section>
+            <img src="./assets/images/avatar.jpg" width="300px" alt="avatar" />
+            <section class="section" id="contacts">
+            <h2 class="section-title">Contacts</h2>
+            <p>
+                <ul>
+                <li>Phone number: +79047192017</li>
+                <li>Email: <a href="mailto:marsel.bikmullin@gmail.com">marsel.bikmullin@gmail.com </a></li>
+                <li>Telegram: <a href="https://t.me/marselbikmullin" title="telegram">@marsel.bikmullin </a></li>
+            </ul></p>
+            </section>
 
-    <footer></footer>
-  </body>
-</html>
+            <section class="section" id="summary">
+            <h2 class="section-title">Summary</h2>
+            <p>           <ul>
+                <li>Marital status: married</li>
+                <li>Date of birth: 6th April 1991</li></ul></p>
+
+            <p>I love computers and everything related to them. Programming has always been something of a hobby.</p>
+            <p> Studied Python and developed simple Django websites. I used to write parser programs for websites.</p>               
+            <p> Now I am learning JavaScript on my own via various video courses on YouTube and RS School courses. Solving JS problems on codewars.com and leetcode.com. Refreshing knowledge of HTML and CSS.</p> 
+            <p> Married, two children.</p>
+            <p> SEO specialist with experience. In my work I sometimes have to edit the layout, install and configure analytics counters on sites, set up goal tracking.</p>
+            </section>
+
+            <section class="section" id="education">
+                <h2 class="section-title">Education</h2>
+                <p>2008—2013 Kazan National Research Technical University named after A. N. Tupolev - KAI, Bachelor’s Degree in Computer science</p>
+                </section>
+                
+            <section class="section" id="my-objective">
+            <h2 class="section-title">My objective</h2>
+
+            <p>To contribute professional skills to achieving your company's goals as an frontend developer.</p>
+</section>
+
+            <section class="section" id="skills">
+            <h2 class="section-title">Skills</h2>
+            <p>
+                <ul>
+               <li>HTML, CSS, Javascript, Python, Django</li>
+                <li>Git, Github</li>
+                <li>Visual Studio Code, WebStorm, PyCharm</li></p>
+            </ul>
+            </section>
+
+            <section class="section" id="code-examples">
+            <h2 class="section-title">Code examples</h2>
+            <pre>
+                function twoSum(numbers, target) {
+                    let tuple = []
+                    for (let i = 0; i < numbers.length - 1; i++){
+                      for (let j = i + 1; j < numbers.length; j++){
+                        if (numbers[i] + numbers[j] === target){
+                          tuple.push(i)
+                          tuple.push(j)
+                        }
+                        else continue
+                      }
+                    }
+                    return tuple
+                  }
+            </pre>
+            </section>
+
+            <section class="section" id="courses">
+            <h2 class="section-title">Courses</h2>
+            <ul>
+                <li><a href="https://rs.school/">RSSchool</a></li>
+            </ul>
+            </section>
+
+
+
+            <section class="section" id="language-skills">
+            <h2 class="section-title">Language Skills</h2>
+            <p>
+                <ul>
+                <li>Russian - native</li>
+            <li>English - Intermediate</li>
+</ul>
+            </p>
+            </section>
+        </div>
+        </main>
+
+        <footer class="footer">
+        <div class="container footer-container">
+            <div>
+            <p>2022 Marsel Bikmullin</p></div>
+
+            <a href="https://rs.school/js/" class="rss"></a></p>
+            
+        </div>
+        </footer>
+    </body>
+    </html>
